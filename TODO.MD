@@ -19,3 +19,4 @@
 - få styr på mad
 - Lav endeligt program
 - uddel roller
+- Få styr på internet (få koden og opsætning)

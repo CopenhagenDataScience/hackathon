@@ -25,5 +25,5 @@ _Dato:_ 11 Marts 2018
  - work session 1        (14:00-16:00)
  - halfway presentations        (16:00-16:30)
  - work session 2        (16:30-18:30)
-  - _Dinner_        (18:30-19:30)
- - final presentations        (19:30-20:00)
+ - final presentations        (18:30-19:00)
+ - _Dinner_        (19:00-)
