@@ -1,4 +1,4 @@
-_Dato:_ 10/11 Marts 2018
+_Dato:_ 11 Marts 2018
 
 # Agenda
 - Introduktion
