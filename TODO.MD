@@ -23,10 +23,14 @@
 - Lav endeligt program
     - Uddel ansvar for hver enkelt punkt mellem arrangører.
     - Slides og indhold til hele dagen.
-    
+
 - uddel roller (se ovenfor)
 
 - Få styr på internet (få koden og opsætning)
     - done (der kan ikke gøres noget)
 
 - Få nøgler osv fra Michael.
+
+- Jakob laver opdaterbar toolbox hvor folk kan uploade links til cool tools
+
+- præciser i slides hvad produktet for dagen er
