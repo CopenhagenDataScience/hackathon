@@ -4,6 +4,7 @@
 - facebook event
 - besøg forelæsninger
 - færdiggør hjemmeside
+- skriv på facebookgrupper og begivenhed
 
 ## oplæg
 - aftal med Snorre og Andreas
@@ -24,6 +25,7 @@
     - vi har spurgt DH og LP, og venter på svar. Hvis de ikke kan stå for det, skal vi hurtigt finde en alternativ løsning.
     - VI MANGLER NOGEN DER KAN LAVE MAD !!!
     - Der skal købes snacks og kaffe/the til dagen.
+    - Vi køber mad
 
 
 - Lav endeligt program
